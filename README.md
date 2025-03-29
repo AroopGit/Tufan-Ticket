@@ -21,5 +21,8 @@ TufanTicket is an AI-powered platform that delivers personalized event recommend
 - **State Management**: TanstackQuery
 - **AI/ML Integration**: Custom-built models for personalization and analytics
 
+### Authors
+-Bhargav Pandit, Aroop Rath and Anmol Thakur
+
 ---
 Join us in revolutionizing event discovery with AI! 🚀
